@@ -1,0 +1,52 @@
+<!--INDEX.HTML-><!doctype html>
+    <html>
+        <head>
+           <title>
+            MY LEARNINGS BEGINS,....
+        </title>
+         
+           <body>
+            <h1 >                     KINDNESSS</h1>
+            <h2>               The Power of Compassionate Acts</h2>
+            <h3>                               A Ripple Effect of Goodness</h3>
+            <h4>                                      Building Bridges Through Kindness</h4>
+            <h5>                             written by</h5>
+            <h6>                                 -Sathika begum M</h6>
+            <a href="page.html">GO TO THE PAGE</a>
+                 <form>
+                    <input type="button" value="Login">
+                    <input type="button" value="GOTO BUTTON">
+                    <input type="button" value="GOTO index.html">
+                                 </form>
+            <h2><b>IMPORTANT POINTS </b></h2>
+            <ol>
+                <li>Compassion</li>
+                <li>Empathy</li>
+                <li>Connection</li>
+                <li>Positivity</li>
+                <li>Generosity</li>
+            </ol>
+            
+                <ul>
+                    <li><a href="https://example.com/donate">Donate and Share Kindness</a></li>
+                    <li><a href="https://example.com/donate">Spread love</a></li>
+                </ul>
+
+           
+           </body>
+        </head>
+    </html>
+
+<! -- PAGE.HTML->
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <p>Kindness is a simple yet powerful act that can transform lives and communities.
+                It involves being considerate, compassionate, and selfless toward others, often without expecting anything in return. 
+                A small gesture of kindness, like a smile, a helping hand, or a few kind words, can brighten someone's day and create a ripple effect that spreads positivity. 
+                Kindness not only benefits the receiver but also brings joy and fulfillment to the giver, fostering a sense of connection and empathy. In a world where challenges and hardships are common, kindness serves as a reminder of our shared humanity 
+                and the importance of supporting one another.</p>
+        </body>
+    </head>
+</html>
